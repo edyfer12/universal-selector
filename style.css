@@ -1,1 +1,7 @@
 /* Add same style to all HTML elements */
+
+* {
+    color:rgba(38, 154, 221, 0.795);
+    font-size: 20px;
+    font:Arial;
+}
